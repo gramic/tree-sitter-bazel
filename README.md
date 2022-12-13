@@ -1,2 +1,4 @@
 # tree-sitter-starlark
-Python grammar for starlark.
+Starlark grammar for [tree-sitter][].
+
+[tree-sitter]: https://github.com/tree-sitter/tree-sitter

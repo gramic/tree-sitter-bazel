@@ -1,0 +1,29 @@
+{
+  "name": "tree-sitter-bazel",
+  "version": "1.0.0",
+  "description": "Tree-sitter for bazel",
+  "main": "bindings/node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gramic/tree-sitter-bazel.git"
+  },
+  "keywords": [
+    "tree-sitter",
+    "bazel"
+  ],
+  "author": "Stanimir Mladenov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gramic/tree-sitter-bazel/issues"
+  },
+  "homepage": "https://github.com/gramic/tree-sitter-bazel#readme",
+  "dependencies": {
+    "nan": "^2.17.0"
+  },
+  "devDependencies": {
+    "tree-sitter-cli": "^0.20.7"
+  }
+}
